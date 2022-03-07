@@ -1,6 +1,6 @@
 # PPE-Karate
 La ligue De Lorraine de Karaté organise tout au long de l'année des compétitions de
-«Kata» dans les différents clubs qui lui sont affiliés.
+«Kata» dans les différents clubs qui lui sont affiliés.<br/>
 Les compétitions de «Kata» sont des démonstrations où chaque compétiteur montre
 son talent dans un enchaînement de mouvements appelé «kata» (et non pas des combats
 opposant 2 compétiteurs). Pour une compétition donnée, tous les compétiteurs présentent le
